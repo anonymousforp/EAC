@@ -1,6 +1,6 @@
 ### Description
 ------------
-That's the pre-trained version of the paper ``Empowerment-driven Policy Gradient Learning with Counterfactual Augmentation in Recommender Systems'' that submitted to SIGKDD 2022 for blind review.
+That's the pre-trained version of the paper ``Empowerment-driven Policy Gradient Learning with Counterfactual Augmentation in Recommender Systems'' that submitted to ICDM 2022 for blind review.
 ### Requirements
 ------------
 *   [VirtualTaoBao](https://github.com/eyounx/VirtualTaobao)
